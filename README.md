@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Node js and Express js**
 
-- 👨‍💻 All of my projects are available at [www.utkarshsharma.info](www.utkarshsharma.info)
+- 👨‍💻 All of my projects are available at [www.utkarshsharma.info](https://www.utkarshsharma.info/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@Utkarsh-sharma](https://hashnode.com/@Utkarsh-sharma)
 
