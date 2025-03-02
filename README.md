@@ -8,19 +8,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/862f48a9043e8165541b09a5a64d969f1c155e0768a90e7a3d56f36efd8a82b3/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966" />
 
-- 🔭 I’m currently working on [Mamba-Bookings](https://github.com/UTKARSHSHARMA718/Mamba-Bookings)
-
-- 🌱 I’m currently learning **Node js and Express js**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [www.utkarshsharma.info](https://www.utkarshsharma.info/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@Utkarsh-sharma](https://hashnode.com/@Utkarsh-sharma)
 
-- 💬 Ask me about **React, Nextjs, javascript, java, etc.**
+- 💬 Ask me about **React, Nextjs, javascript, Electron Js, NodeJs, etc.**
 
 - 📫 How to reach me **utkarsh79sharma@gmail.com**
-
-- ⚡ Fun fact **I think I can think and do the work on time nicely!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
